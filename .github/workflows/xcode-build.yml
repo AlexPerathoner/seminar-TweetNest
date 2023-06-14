@@ -36,3 +36,4 @@ jobs:
           -test-iterations 15 \
           CODE_SIGNING_ALLOWED=NO || exit 1
           
+          
